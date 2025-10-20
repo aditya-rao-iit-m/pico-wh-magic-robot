@@ -1,6 +1,6 @@
-#Pico WH Magic Robot MicroPython and C++ Base Code
+# Pico WH Magic Robot MicroPython and C++ Base Code
 **************************************************
-##Released under the GNU GPL v3.0 October 2025
+## Released under the GNU GPL v3.0 October 2025
 **************************************************
 Mentor: Dr.Janakiraman Viraraghavan 
 Code repository by Aditya Rao, 
