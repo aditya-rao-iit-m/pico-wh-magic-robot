@@ -15,6 +15,8 @@ Please remember the GNU GPL v3.0 license requires attribution and also requires 
 
 I wish to thank Dr.Janakiraman Viraraghavan my mentor at IIT Madras, for his support and enthusiasm without which this effort will not have been successful.
 
+Wish you all a very Happy Diwali - 2025
+
 **************************************************
 Concept and Program by: 
 Aditya Rao 
